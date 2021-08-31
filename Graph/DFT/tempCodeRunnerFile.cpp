@@ -1,0 +1,1 @@
+isVisited[nextVertex] = true;
